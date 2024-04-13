@@ -1,0 +1,18 @@
+.main-content-wrapper {
+    color: #f5f5f5;
+}
+
+.unathenticated-wrapper {
+    padding: 20px;
+    text-align: center;
+}
+
+.login-bar-text {
+    float: left;
+    color: #000;
+}
+
+.login-error-alert {
+    text-align: right;
+    margin-top: 40vh;
+}

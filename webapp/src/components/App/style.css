@@ -1,0 +1,11 @@
+html, body {
+    background-color: #000;
+}
+
+.main-container {
+    padding: 0;
+}
+
+.main-container .page {
+    padding: 25px 0;
+}

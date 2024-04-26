@@ -9,7 +9,7 @@ function Sidebar(props) {
     let profile;
     if (displayName && photoURL) {
         profile = <div className='profile'>
-            <img src={photoURL} className='avatar'/>
+            <img src={photoURL} className='avatar' alt='avatar'/>
             {' '}
             <span className='display-name'>{displayName}</span>
         </div>;

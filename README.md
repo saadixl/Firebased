@@ -12,5 +12,5 @@
 - Start the react app with `npm start` command
 
 # Screenshots
-<img width="1506" alt="Screenshot 2024-04-13 at 12 56 47 PM" src="https://github.com/saadixl/Firebased/assets/1633940/19a7cf2b-aa18-49c9-9cbc-8580b0596617">
+<img width="1510" alt="wabss" src="https://github.com/saadixl/Web-App-Boilerplate/assets/1633940/00f6f7a6-fcec-44ef-9f9f-240aa9b24e17">
 

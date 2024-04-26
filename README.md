@@ -1,3 +1,10 @@
+# Features
+- Login/Logout based on Firebase Auth
+- Deployable to Firebase Hosting
+- Test React Hook code for calling APIs
+- Sidebar
+- Sample pages
+
 # How to start developing on top of it?
 - Clone this repo
 - Run `firebase init` from the root of the repo

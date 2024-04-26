@@ -17,7 +17,7 @@ function Sidebar(props) {
     return (
         <section className="sidebar">
             <h4 className="sidebar-title">
-                Firebased
+                Project Title
             </h4>
             {profile}
             <Nav
